@@ -10,3 +10,13 @@
 - 💞️ I’m looking for internship experience
 - 📫 How to reach me: jhonatacbarros@gmail.com
 
+<div> 
+  
+ 
+ 
+  <a href = "mailto:jhonatacbarros@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jhonatac-barros/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  
+ 
+</div>
